@@ -98,7 +98,7 @@ table,th,td{
         display: inline-block;
     }
 
-    footer p{
+    .footer{
         text-align: center;
         font-size: 12px;
     }
